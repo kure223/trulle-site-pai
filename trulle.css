@@ -1,0 +1,46 @@
+header{
+background-color: gray;
+
+}
+nav ul {
+box-sizing: border-box;
+padding: 10px;
+list-style-type: none;
+width: 100%;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+
+
+}
+nav ul li a {
+text-decoration: none;
+color: rgb(255, 255, 255);
+border: solid 2px black;
+
+
+
+}
+nav ul li a:hover{
+cursor: pointer;
+color: black;
+
+
+
+}
+#imagem1{
+margin-left: 580px;
+
+
+}
+body{
+ background-color: bisque;
+ color: #333333;
+ font-family: "Syne Tactile";
+
+}
+
+
+
+
